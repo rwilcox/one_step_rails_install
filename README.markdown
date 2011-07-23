@@ -49,6 +49,8 @@ Want to help? I'm just one guy, hacking on this as he discovers problems getting
 
 Buying a new machine, and need to get Rails up? Use this shell script instead of doing everything yourself!
 
+Setting up a new *project* on your machine? Use this script!
+
 License
 ===========================
 
