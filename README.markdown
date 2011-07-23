@@ -40,6 +40,8 @@ To restore the "one step Rails installation process". Or at least get it down to
   1. Step one: Download this shell script
   2. Step two: Run the shell script
 
+The goal is to also apply some intelligent defaults to the install process. For example, the script installs both Ruby 1.8.7 (REE) and Ruby 1.9.2. Most Rails projects in the wild are 1.8.7, but Rails projects will increasingly move to 1.9.x over the next year or two.
+
 Help out!
 ============================
 
@@ -50,6 +52,21 @@ Want to help? I'm just one guy, hacking on this as he discovers problems getting
 Buying a new machine, and need to get Rails up? Use this shell script instead of doing everything yourself!
 
 Setting up a new *project* on your machine? Use this script!
+
+TODO
+============================
+
+Steps that are striked off indicate this script handles them:
+
+  1. Install [RVM](http://beginrescueend.com/)
+  2. <strike>Complile a Ruby using RVM (1.9.2, 1.8.7 REE)</strike>
+  3. rvm use (compiled ruby)
+  4. rvm gemset create NAME
+  5. echo "rvm use (gemset name)@(compiled ruby) > .rvmrc
+  6. active the gemset you created
+  7. gem install bundler
+  8. bundle install
+
 
 License
 ===========================
