@@ -7,7 +7,7 @@ No? I have. There are (at least) 8 steps:
 
 The steps are:
 
-  1. Install RVM
+  1. Install [RVM](http://beginrescueend.com/)
   2. Complile a Ruby using RVM
   3. rvm use (compiled ruby)
   4. rvm gemset create NAME
@@ -23,7 +23,7 @@ Why so many steps?
 
   1. Best practices in the Ruby community say RVM is a great idea. I find it incredible for running multiple Rails projects on my machine.
   
-  2. We love Bundler. It's better than what we had before
+  2. We love [Bundler](http://gembundler.com/). It's better than what we had before
   
   3. As software grows in power, it grows in complexity. I expect additional steps in the next year or two to set up a generic Rails development machine.
   
