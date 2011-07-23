@@ -1,4 +1,4 @@
-Do you know how hard it is to get Rails up and running on a fresh machine?
+Do you know how hard it is to get Rails 3 project up and running on a fresh machine?
 ========================
 
 Have you ever thought about how hard it is to get Rails running on a fresh machine?
@@ -40,3 +40,25 @@ To restore the "one step Rails installation process". Or at least get it down to
   1. Step one: Download this shell script
   2. Step two: Run the shell script
 
+Help out!
+============================
+
+Want to help? I'm just one guy, hacking on this as he discovers problems getting Rails set up for people.
+
+**Your** help would be greatly appreciated. Know a designer that needs Rails on their machine? Use this shell script, and improve it when it doesn't work!
+
+Buying a new machine, and need to get Rails up? Use this shell script instead of doing everything yourself!
+
+License
+===========================
+
+License
+(The MIT License)
+
+Copyright (c) 2011 Ryan Wilcox
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the 'Software'), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
