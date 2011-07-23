@@ -59,7 +59,7 @@ TODO
 Steps that are striked off indicate this script handles them:
 
   1. Install [RVM](http://beginrescueend.com/)
-  2. <strike>Complile a Ruby using RVM (1.9.2, 1.8.7 REE)</strike>
+  2. <del>Complile a Ruby using RVM (1.9.2, 1.8.7 REE)</del>
   3. rvm use (compiled ruby)
   4. rvm gemset create NAME
   5. echo "rvm use (gemset name)@(compiled ruby) > .rvmrc
